@@ -1,8 +1,10 @@
 ---
-title: "Tax RDD"
+title: "Property Taxation and Political Accountability: Evidence from a Rule-based Regression Discontinuity in Sierra Leone"
 authors:
 - admin
-- Nicco
+- Niccolo Meriggi
+- Julian Michel
+- Wilson Prichard
 
 date: "2023-8-10"
 doi: ""
@@ -18,7 +20,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "Tax RDD"
-# publication_short: "Working Paper"
+publication_short: "Data collection complete"
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -50,4 +52,4 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-Abstract 
+Does property taxation increase demands for political accountability? A distinguished literature in Political Economy holds that citizens facing larger tax burdens should be more willing and able to hold political representatives accountable. We take up this question in the context of a city-wide property tax reform in Freetown, Sierra Leone that significantly broadened the tax base. For causal leverage, we exploit the existence of a sharp property taxation discontinuity— in 2020, only properties in the top 50% in terms of assessed property tax were issued tax bills; properties below this threshold did not receive a property tax bill. We use administrative data to sample property owners at the threshold, collect baseline survey data on political attitudes and self-reported political behavior before tax bills are delivered, then collect endline data in the months after the delivery of tax bills. 

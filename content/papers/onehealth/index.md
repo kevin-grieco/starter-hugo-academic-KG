@@ -58,4 +58,3 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-Abstract of the Paper
