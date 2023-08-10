@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Projects
-    url: '#projects'
+    url: '#ongoingprojects'
     weight: 30
   - name: Working Papers
     url: '#workingpapers'

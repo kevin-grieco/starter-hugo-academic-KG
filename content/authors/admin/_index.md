@@ -3,8 +3,8 @@
 title: Kevin Grieco
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Kevin
+last_name: Grieco
 
 # Status emoji
 status:
@@ -14,21 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD Candidate (UCLA)
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: UCLA, Political Science
-    url: https://www.stanford.edu/
+    url: https://polisci.ucla.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-# interests:
-# - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+bio: Political scientist interested in state capacity and development.
 
 # Education to show in About widget
 education:
@@ -51,21 +45,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,8 +74,15 @@ email: ''
 highlight_name: true
 ---
 
-I am a political science studying the development of fiscal capacity and Traditional Political Institutions.
+I am a political scientist studying fiscal capacity and Traditional Political Institutions. My research uses methods of causal inference. 
 
-My research uses methods of causal inference.
+My reserach has been funded by the [International Growth Centre](https://www.theigc.org/) and the [International Centre for Tax and Development](https://www.ictd.ac/).
+
+I am currently a 2023 Keck Graduate Fellow at UCLA and I was previously a [C. Lowell Harris Dissertation Fellow](https://www.lincolninst.edu/c-lowell-harriss-dissertation-fellows-2021-2022). I also recieved the a UCLA Dissertation Year Fellowship. 
+
+Starting in September 2023, I will be a pre-doctoral fellow for the [Local Government Revenue Initiative](https://logri.org/)
+
+[Lincoln land institute](https://www.lincolninst.edu/)
+
 
 {style="text-align: justify;"}
