@@ -39,6 +39,39 @@ sections:
       view: citation
       # Choose single or dual column layout
       columns: '2'
+
+  - block: collection
+    id: ongoingprojects
+    content:
+      title: Ongoing projects
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - ongoingprojects
+#        author: ""
+#        category: ""
+#        tag: ""
+#        publication_type: ""
+#        featured_only: false
+        exclude_featured: true
+#        exclude_future: false
+#        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+#      offset: 0
+      # Field to sort by, such as Date or Title
+#      sort_by: 'Date'
+#      sort_ascending: false
+    design:
+      # Choose a listing view
+      view: citation
+      # Choose single or dual column layout
+      columns: '2'
+
+
+
+
 #  - block: portfolio
 #    id: projects
 #    content:
@@ -62,7 +95,7 @@ sections:
 #          tag: Demo
 #    design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-#      columns: '1'
+#      columns: '2'
 #      view: showcase
       # For Showcase view, flip alternate rows?
 #      flip_alt_rows: false
