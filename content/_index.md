@@ -11,44 +11,61 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-# - block: collection
-#    id: working_papers
+  - block: collection
+    id: workingpapers
+    content:
+      title: Working Papers
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - papers
+#        author: ""
+#        category: ""
+#        tag: ""
+#        publication_type: ""
+#        featured_only: false
+        exclude_featured: true
+#        exclude_future: false
+#        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+#      offset: 0
+      # Field to sort by, such as Date or Title
+#      sort_by: 'Date'
+#      sort_ascending: false
+    design:
+      # Choose a listing view
+      view: citation
+      # Choose single or dual column layout
+      columns: '2'
+#  - block: portfolio
+#    id: projects
 #    content:
-#      title: Working Papers
+#      title: Projects
 #      filters:
 #        folders:
-#          - publication
-#        exclude_featured: true
-#    design:
-#      columns: '2'
-#      view: citation
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
+#          - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
+#      default_button_index: 0
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
-    design:
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: Deep Learning
+#          tag: Deep Learning
+#        - name: Other
+#          tag: Demo
+#    design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
+#      columns: '1'
+#      view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+#      flip_alt_rows: false
   
   - block: contact
     id: contact
