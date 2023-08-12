@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate (UCLA)
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,7 +27,7 @@ bio: Political scientist interested in state capacity and development.
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Political Science
+    - course: PhD in Political Science (*expected*)
       institution: University of California, Los Angeles
       year: 2024
     - course: MSc in International Development
@@ -75,7 +75,7 @@ highlight_name: true
 ---
 I am a PhD Candidate in political science at UCLA where I am currently a 2023 Keck Graduate Fellow. I will be a predoctoral fellow at the [Local Government Revenue Initiative](https://logri.org/) starting in September 2023. 
 
-I study the political economy of development, with a focus on Sub-Saharan Africa. My current work focuses on fiscal capacity and traditional political institutions and I use methods of causal inference to address these topics. My reserach has been supported by the [International Growth Centre](https://www.theigc.org/) and the [International Centre for Tax and Development](https://www.ictd.ac/). I was a [C. Lowell Harris Dissertation Fellow](https://www.lincolninst.edu/c-lowell-harriss-dissertation-fellows-2021-2022) and I received a UCLA Dissertation Year Fellowship. 
+I study the political economy of development, primarily in Sub-Saharan Africa. My current work focuses on fiscal capacity and traditional political institutions and I use methods of causal inference to address these topics. My research has been supported by the [International Growth Centre](https://www.theigc.org/) and the [International Centre for Tax and Development](https://www.ictd.ac/). I was a [C. Lowell Harris Dissertation Fellow](https://www.lincolninst.edu/c-lowell-harriss-dissertation-fellows-2021-2022) and I received a UCLA Dissertation Year Fellowship. 
 
 
 {style="text-align: justify;"}
