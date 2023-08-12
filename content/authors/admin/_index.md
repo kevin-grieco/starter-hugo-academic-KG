@@ -73,16 +73,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a PhD Candidate in political science at UCLA where I am currently a 2023 Keck Graduate Fellow. I will be a predoctoral fellow at the [Local Government Revenue Initiative](https://logri.org/) starting in September 2023. 
 
-I am a political scientist studying fiscal capacity and Traditional Political Institutions. My research uses methods of causal inference. 
-
-My reserach has been funded by the [International Growth Centre](https://www.theigc.org/) and the [International Centre for Tax and Development](https://www.ictd.ac/).
-
-I am currently a 2023 Keck Graduate Fellow at UCLA and I was previously a [C. Lowell Harris Dissertation Fellow](https://www.lincolninst.edu/c-lowell-harriss-dissertation-fellows-2021-2022). I also recieved the a UCLA Dissertation Year Fellowship. 
-
-Starting in September 2023, I will be a pre-doctoral fellow for the [Local Government Revenue Initiative](https://logri.org/)
-
-[Lincoln land institute](https://www.lincolninst.edu/)
+I study the political economy of development, with a focus on Sub-Saharan Africa. My current work focuses on fiscal capacity and traditional political institutions and I use methods of causal inference to address these topics. My reserach has been supported by the [International Growth Centre](https://www.theigc.org/) and the [International Centre for Tax and Development](https://www.ictd.ac/). I was a [C. Lowell Harris Dissertation Fellow](https://www.lincolninst.edu/c-lowell-harriss-dissertation-fellows-2021-2022) and I received a UCLA Dissertation Year Fellowship. 
 
 
 {style="text-align: justify;"}
