@@ -52,4 +52,8 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-Does property taxation increase demands for political accountability? A distinguished literature in Political Economy holds that citizens facing larger tax burdens should be more willing and able to hold political representatives accountable. We take up this question in the context of a city-wide property tax reform in Freetown, Sierra Leone that significantly broadened the tax base. For causal leverage, we exploit the existence of a sharp property taxation discontinuity— in 2020, only properties in the top 50% in terms of assessed property tax were issued tax bills; properties below this threshold did not receive a property tax bill. We use administrative data to sample property owners at the threshold, collect baseline survey data on political attitudes and self-reported political behavior before tax bills are delivered, then collect endline data in the months after the delivery of tax bills. 
+**Abstract**
+
+Does property taxation increase demands for political accountability? A distinguished literature in Political Economy holds that citizens facing larger tax burdens should be more willing to hold political representatives accountable. We take up this question in the context of a city-wide property tax reform in Freetown, Sierra Leone that significantly broadened the tax base. For causal leverage, we exploit the existence of a sharp discontinuity in who was taxed during the initial stage of this reform. In 2020, only properties in the top 50% in terms of assessed property tax were issued tax bills; properties below this threshold did not receive a property tax bill. We use administrative data to sample property owners at the threshold, collect baseline survey data on political attitudes and self-reported political behavior before tax bills are delivered, then collect endline data in the months after the delivery of tax bills. 
+
+{style="text-align: justify;"}

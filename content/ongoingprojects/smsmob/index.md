@@ -51,4 +51,9 @@ links:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+**Abstract**
+
 In the run-up to the 2018 general election in Sierra Leone, the National Election Commission (NEC) initiated a text message voter mobilization campaign with the intention of increasing voter turnout. This Get-out-the-Vote (GOTV) campaign targeted registered voters in 1293 polling stations with one SMS on each of the two days prior to first round of national elections. In the primary analysis, we evaluate (a) the effectiveness of SMS reminders to vote and (b) the relative effectiveness of development-oriented mobilization messages. We find this cost-effective Get-out-the-Vote campaign increased voting station level turnout by around .7%, and that SMS that contain additional development-oriented appeals are no more effective than reminder SMS. Finally, we show that these effects persist into the second-round presidential runoff, in accordance with previous research that suggests voting in habit forming.  
+
+{style="text-align: justify;"}
