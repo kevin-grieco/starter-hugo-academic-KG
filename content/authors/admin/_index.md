@@ -27,7 +27,7 @@ bio: Political scientist interested in state capacity and development.
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Political Science (*expected*)
+    - course: PhD in Political Science (expected)
       institution: University of California, Los Angeles
       year: 2024
     - course: MSc in International Development
