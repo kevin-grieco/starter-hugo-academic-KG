@@ -1,5 +1,5 @@
 ---
-title: "Property Taxation and Political Accountability: Evidence from a Rule-based Regression Discontinuity in Sierra Leone"
+title: "Property Taxation and Political Accountability: Evidence from a Rule-based expansion of tax demand in Sierra Leone"
 authors:
 - admin
 - Niccolo Meriggi
@@ -33,7 +33,7 @@ featured: false
 
 links:
 #- name: PAP
-#  url: https://osf.io/9xfv3
+#  url: 
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
