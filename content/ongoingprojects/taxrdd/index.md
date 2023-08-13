@@ -1,5 +1,5 @@
 ---
-title: "Property Taxation and Political Accountability: Evidence from a Rule-based expansion of tax demand in Sierra Leone"
+title: "Property Taxation and Political Accountability: Evidence from a Rule-based expansion of tax demands in Sierra Leone"
 authors:
 - admin
 - Niccolo Meriggi

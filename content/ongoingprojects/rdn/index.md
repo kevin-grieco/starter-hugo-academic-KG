@@ -1,5 +1,5 @@
 ---
-title: "Weber's Nudge: Does Signalling Procedural Fairness on Tax Bills Increase Compliance?"
+title: "Weber's Nudge: Does Signaling Procedural Fairness on Tax Bills Increase Compliance?"
 authors:
 - admin
 - Abou Bakarr Kamara
