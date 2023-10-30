@@ -1,8 +1,12 @@
 ---
-title: "Sierra Leone's response to COVID-19: A Rapid Assessment"
+title: "Simplifying Property Tax Administration in Africa: Piloting a Points- Based Valuation in Freetown, Sierra Leone"
 authors:
 - admin
-- Yasmina Yusuf
+- Abou Bakarr Kamara
+- Niccolo Meriggi
+- Julian Michel
+- Wilson Prichard and
+- Graeme Stewart-Wilson
 date: "2020"
 doi: ""
 
@@ -23,8 +27,8 @@ publication_short: "Policy Report"
 featured: false
 
 links:
-- name: Report
-  url: https://www.opml.co.uk/files/Publications/A2241-maintains/final-2707-sierra-leone-covid-rapid-study-4-.pdf?noredirect=1
+- name: Brief
+  url: https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/14799/ICTD_SummaryBrief_19_Online.pdf?sequence=7
 
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
