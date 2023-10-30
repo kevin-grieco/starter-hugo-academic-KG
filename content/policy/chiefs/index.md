@@ -1,5 +1,5 @@
 ---
-title: "Beyond the state"
+title: "Beyond the state: The role of traditional leaders in COVID-19"
 authors:
 - admin
 date: "2023-8-10"
@@ -12,7 +12,7 @@ publishDate: "2023-08-12T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
 publication_short: "Policy Report"
@@ -22,8 +22,8 @@ publication_short: "Policy Report"
 featured: false
 
 links:
-- name: PAP
-  url: https://osf.io/g7xwv
+- name: Report
+  url: https://www.opml.co.uk/files/Publications/A2241-maintains/sierra-leone-the-role-of-traditional-leaders-final.pdf?noredirect=1
 
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
