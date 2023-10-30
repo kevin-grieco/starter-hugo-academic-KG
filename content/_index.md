@@ -72,7 +72,7 @@ sections:
   - block: collection
     id: policy
     content:
-      title: Ongoing projects
+      title: Policy
       # Filter on criteria
       filters:
         # The folders to display content from
