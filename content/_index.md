@@ -69,8 +69,24 @@ sections:
       # Choose single or dual column layout
       columns: '2'
 
+  - block: collection
+    id: policy
+    content:
+      title: Ongoing projects
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - policy
+        exclude_featured: true
+    design:
+      # Choose a listing view
+      view: citation
+      # Choose single or dual column layout
+      columns: '2'
 
-  
+
+
   - block: contact
     id: contact
     content:
