@@ -1,5 +1,5 @@
 ---
-title: "Building Fiscal Capacity with Traditional Political Institutions: Experimental and Qualitative Evidence from Sierra Leone"
+title: "Beyond the state"
 authors:
 - admin
 date: "2023-8-10"
@@ -15,7 +15,7 @@ publishDate: "2023-08-12T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication_short: "Job Market Paper"
+publication_short: "Policy Report"
 
 #tags:
 #- Source Themes
@@ -59,7 +59,7 @@ links:
 
 **Abstract** 
 
-How can weak states build fiscal capacity? I argue that governments in weak states can build fiscal capacity by collaborating with non-state, traditional political institutions (TPIs). Using a mix of experimental and qualitative evidence, I show that this collaboration increases citizens' compliance because TPIs possess legitimacy and coercive capacity. Collaborating with the local government in Kono District, Sierra Leone, I embedded an experiment in their campaign to collect property taxes. Potential taxpayers were shown awareness videos that varied in their content, particularly in terms of whether and how their local paramount chief characterized his involvement in tax collection. I find that state collaboration with TPIs increases citizens' compliance with a newly introduced property tax and that TPIs' authority stems from both their legitimacy and coercive capacity. Qualitative evidence from 300 semi-structured interviews adds a richer description of legitimacy and coercive capacity in my context. I argue, based on qualitative evidence, that legitimacy and coercion are complementary mechanisms of TPIs' authority enabling them to effectively coordinate collective action to produce local public goods in the absence of the state.  
+Abstract
 
 
 
