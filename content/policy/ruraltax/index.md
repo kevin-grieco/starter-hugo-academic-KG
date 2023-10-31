@@ -22,8 +22,8 @@ publication_short: "Policy Report"
 featured: false
 
 links:
-- name: Report
-  url: https://www.opml.co.uk/files/Publications/A2241-maintains/sierra-leone-the-role-of-traditional-leaders-final.pdf?noredirect=1
+
+
 
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
