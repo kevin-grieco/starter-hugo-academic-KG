@@ -62,7 +62,7 @@ links:
 # slides: example
 ---
 
-**Summary** 
+
 
 
 
