@@ -1,5 +1,5 @@
 ---
-title: Policy
+title: Policy Reports & Briefs
 cms_exclude: true
 
 # View.
