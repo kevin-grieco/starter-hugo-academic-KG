@@ -2,7 +2,7 @@
 title: "Beyond the state: The role of traditional leaders in COVID-19"
 authors:
 - admin
-date: "2023-8-10"
+date: "2020-8-10"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -59,8 +59,9 @@ links:
 
 **Abstract** 
 
-Abstract
+This rapid study explores the role of traditional leaders in COVID-19 response efforts in Kono District, Sierra Leone. Traditional leaders form a key part of Sierra Leone's governance infrastructure and throughout the pandemic there has been much discussion regarding the kind of role traditional leaders are playing, and how they are incorporated in the response. 
 
+In the early stages, the central government led the formulation and implementation of response policy. However, as the virus spread outside of the capital, responsibilities for fighting COVID-19 were delegated to district level actors. These district level actors lack governance presence in rural areas and have relied on traditional leaders and other non-governmental actors to (a) issue and enforce COVID-19-related safety measures, and (b) conduct sensitisation about COVID-19. This study explored how this happened in practice.
 
 
 {style="text-align: justify;"}
