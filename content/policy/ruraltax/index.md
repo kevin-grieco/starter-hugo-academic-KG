@@ -59,7 +59,7 @@ featured: false
 
 **Abstract** 
 
-There is agreement in policy circles that governments in Sub-Saharan Africa--and governments of developing countries more generally--need to increase their share of ``own source'' revenue. How should governments in Sub-Saharan Africa do this? This report explores the potential for local governments to raise revenue through property taxation in rural areas. 
+There is agreement in policy circles that governments in Sub-Saharan Africa--and governments of developing countries more generally--need to increase their share of "own source" revenue. How should governments in Sub-Saharan Africa do this? This report explores the potential for local governments to raise revenue through property taxation in rural areas. 
 
 In many contexts, the primary variable cost associated with rural tax collection is the tax collector's transportation costs. Using property taxation in rural Sierra Leone (Kono District) as my case, I start by measuring village-level collection costs, obtaining quotes from motorbike drivers on the travel cost between a tax collector's residence and the set of villages for which a given collector is responsible. I estimate village level potential revenue with data on the number and type of building structures in each village. I then use simulation exercises to investigate net potential revenue under different assumptions regarding (1) compliance rates; (2) collector travel behavior; (3) whether collectors are compensated via a pay-for-performance model (i.e., tax farming) or with a flat salary.
 
