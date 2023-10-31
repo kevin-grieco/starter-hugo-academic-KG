@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: earth
-  theme_night: earth
-  font: classic
+  theme_day: ocean
+  theme_night: ocean
+  font: rose
   font_size: s
 
 # SEO
