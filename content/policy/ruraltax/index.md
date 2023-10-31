@@ -1,5 +1,5 @@
 ---
-title: "Can Rural Property Tax Generate Revenue?*"
+title: "Can Rural Property Tax Generate Revenue?"
 authors:
 - admin
 date: "2023-8-10"
