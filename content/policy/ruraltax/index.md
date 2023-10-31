@@ -1,9 +1,8 @@
 ---
-title: "Sierra Leone's response to COVID-19: A Rapid Assessment"
+title: "Can Rural Property Tax Generate Revenue?*"
 authors:
 - admin
-- and Yasmina Yusuf
-date: "2020"
+date: "2023-8-10"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +23,7 @@ featured: false
 
 links:
 - name: Report
-  url: https://www.opml.co.uk/files/Publications/A2241-maintains/final-2707-sierra-leone-covid-rapid-study-4-.pdf?noredirect=1
+  url: https://www.opml.co.uk/files/Publications/A2241-maintains/sierra-leone-the-role-of-traditional-leaders-final.pdf?noredirect=1
 
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
@@ -58,8 +57,9 @@ links:
 # slides: example
 ---
 
-**Summary** 
+**Abstract** 
 
+Abstract
 
 
 
