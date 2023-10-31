@@ -6,7 +6,7 @@ date: "2020-8-10"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-08-12T00:00:00Z"
+publishDate: "2020-08-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -64,4 +64,4 @@ This rapid study explores the role of traditional leaders in COVID-19 response e
 In the early stages, the central government led the formulation and implementation of response policy. However, as the virus spread outside of the capital, responsibilities for fighting COVID-19 were delegated to district level actors. These district level actors lack governance presence in rural areas and have relied on traditional leaders and other non-governmental actors to (a) issue and enforce COVID-19-related safety measures, and (b) conduct sensitisation about COVID-19. This study explored how this happened in practice.
 
 
-{style="text-align: justify;"}
+{style="text-align: justify"}
