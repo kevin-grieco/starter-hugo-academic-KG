@@ -72,7 +72,7 @@ sections:
   - block: collection
     id: policy
     content:
-      title: Policy
+      title: Policy Reports & Briefs
       # Filter on criteria
       filters:
         # The folders to display content from
