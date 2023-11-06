@@ -79,4 +79,4 @@ I study how low-capacity governments raise taxes and enforce policies. My curren
 I am a PhD Candidate in political science at UCLA, where I am currently a 2023 Keck Graduate Fellow. I am also a predoctoral fellow at the [Local Government Revenue Initiative](https://logri.org/). I was a 2021-2022 [C. Lowell Harris Dissertation Fellow](https://www.lincolninst.edu/c-lowell-harriss-dissertation-fellows-2021-2022) and I received the UCLA Dissertation Year Fellowship. 
 
 
-{style="text-align: justify"}
+{style="text-align: justify;"}
