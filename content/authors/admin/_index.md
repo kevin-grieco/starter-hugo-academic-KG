@@ -76,7 +76,7 @@ highlight_name: true
 
 I study how low-capacity governments raise taxes and enforce policies. My current work focuses on fiscal capacity and traditional political institutions in Sierra Leone (where I have spent over three years living and working), collects original quantitative and qualitative data, uses field experiments to answer causal questions, and involves collaborations with local government and civil society partners. My research has been supported by the [International Growth Centre](https://www.theigc.org/) and the [International Centre for Tax and Development](https://www.ictd.ac/).  
 
-I am a PhD Candidate in political science at UCLA where I am currently a 2023 Keck Graduate Fellow. I will be a predoctoral fellow at the [Local Government Revenue Initiative](https://logri.org/) starting in September 2023. I was a 2021-2022 [C. Lowell Harris Dissertation Fellow](https://www.lincolninst.edu/c-lowell-harriss-dissertation-fellows-2021-2022) and I received the UCLA Dissertation Year Fellowship. 
+I am a PhD Candidate in political science at UCLA, where I am currently a 2023 Keck Graduate Fellow. I am also a predoctoral fellow at the [Local Government Revenue Initiative](https://logri.org/). I was a 2021-2022 [C. Lowell Harris Dissertation Fellow](https://www.lincolninst.edu/c-lowell-harriss-dissertation-fellows-2021-2022) and I received the UCLA Dissertation Year Fellowship. 
 
 
 {style="text-align: justify;"}
