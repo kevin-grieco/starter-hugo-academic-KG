@@ -15,7 +15,7 @@ publishDate: "2023-08-12T00:00:00Z"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication_short: "Policy Report in Preparation"
+publication_short: "Policy Report"
 
 #tags:
 #- Source Themes
