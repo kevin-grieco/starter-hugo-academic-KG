@@ -21,9 +21,9 @@ publication_short: "Policy Report"
 #- Source Themes
 featured: false
 
-links:
-- name: Research Note
-  url: https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/18281/ICTD_WP185.pdf?sequence=4&isAllowed=y
+#links:
+#- name: Research Note
+#  url: https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/18281/ICTD_WP185.pdf?sequence=4&isAllowed=y
 
 
 
