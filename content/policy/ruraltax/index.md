@@ -23,7 +23,7 @@ featured: false
 
 links:
 - name: Report
-  url: https://www.ictd.ac/publication/can-rural-property-tax-generate-revenue-a-simple-accounting-exercise-in-sierra-leone/
+  url: https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/18281/ICTD_WP185.pdf?sequence=4&isAllowed=y
 
 
 
