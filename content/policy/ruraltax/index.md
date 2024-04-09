@@ -25,7 +25,7 @@ featured: false
 
 
 
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+ url_pdf: https://www.ictd.ac/publication/can-rural-property-tax-generate-revenue-a-simple-accounting-exercise-in-sierra-leone/
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'
