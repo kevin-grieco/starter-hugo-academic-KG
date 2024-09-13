@@ -28,7 +28,7 @@ featured: false
 
 links:
 - name: Brief
-  url: https://opendocs.ids.ac.uk/opendocs/bitstream/handle/20.500.12413/14799/ICTD_SummaryBrief_19_Online.pdf?sequence=7
+  url: https://policycommons.net/artifacts/1448827/simplifying-property-tax-administration-in-africa/2080605/
 
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
