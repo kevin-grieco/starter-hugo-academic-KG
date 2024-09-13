@@ -18,8 +18,8 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-name: International Centre for Tax and Development
-url: https://ictd.ac/
+#name: International Centre for Tax and Development
+#url: https://ictd.ac/
  # - name: UCLA, Political Science
  #   url: https://polisci.ucla.edu/
 
