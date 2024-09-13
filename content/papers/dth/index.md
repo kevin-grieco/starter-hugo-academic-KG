@@ -1,6 +1,5 @@
 ---
-title: "Strengthening Fiscal Contracts Through Digital Town Halls in
-Freetown, Sierra Leone"
+title: "Participation, Legitimacy and Fiscal Capacity in Weak States: Evidence from Participatory Budgeting"
 authors:
 - admin
 - Abou Bakarr Kamara
