@@ -19,7 +19,7 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
 name: International Centre for Tax and Development
-url: https://www.ictd.ac/
+url: https://ictd.ac/
  # - name: UCLA, Political Science
  #   url: https://polisci.ucla.edu/
 
@@ -76,7 +76,7 @@ email: ''
 highlight_name: true
 ---
 
-I study how low-capacity governments raise taxes and enforce policies. My current work focuses on fiscal capacity and traditional political institutions in Sierra Leone (where I have spent over four years living and working), collects original quantitative and qualitative data, uses field experiments to answer causal questions, and involves collaborations with local government and civil society partners. My research has been supported by the [International Growth Centre](https://www.theigc.org/), the [International Centre for Tax and Development](https://www.ictd.ac/), and UCLA's Dissertation Year Fellowship. %I was a 2021-2022 C. Lowell Harriss Dissertation Fellow and a 2023 Keck Graduate Fellow.
+I study how low-capacity governments raise taxes and enforce policies. My current work focuses on fiscal capacity and traditional political institutions in Sierra Leone (where I have spent over four years living and working), collects original quantitative and qualitative data, uses field experiments to answer causal questions, and involves collaborations with local government and civil society partners. My research has been supported by the [International Growth Centre](https://www.theigc.org/), the [International Centre for Tax and Development](https://www.ictd.ac/), and UCLA's Dissertation Year Fellowship. I was a 2021-2022 C. Lowell Harriss Dissertation Fellow and a 2023 Keck Graduate Fellow.
 
 I am currently a Postdoctoral Fellow at the [Local Government Revenue Initiative](https://logri.org/), initiative of the International Center for Tax and Development. I received my PhD in Political Science from UCLA in 2024.
 
