@@ -19,7 +19,7 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: ICTD
-  url: https://polisci.ucla.edu/
+  url: https://ictd.ac/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Political scientist interested in state capacity and development.
