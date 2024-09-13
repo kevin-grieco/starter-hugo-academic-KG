@@ -14,12 +14,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UCLA, Political Science
-    url: https://polisci.ucla.edu/
+name: International Centre for Tax and Development
+url: https://www.ictd.ac/
+ # - name: UCLA, Political Science
+ #   url: https://polisci.ucla.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Political scientist interested in state capacity and development.
@@ -27,7 +29,7 @@ bio: Political scientist interested in state capacity and development.
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Political Science (expected)
+    - course: PhD in Political Science
       institution: University of California, Los Angeles
       year: 2024
     - course: MSc in International Development

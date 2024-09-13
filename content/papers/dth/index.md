@@ -10,11 +10,11 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2023-08-01T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-08-01T00:00:00Z"
+publishDate: "2024-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ publication: "DTH"
 publication_short: "Working Paper"
 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Building durable fiscal capacity requires that the state obtains compliance with its tax demands, a struggle for weak states that lack enforcement capacity. One potential option for governments in weak states is to enhance their legitimacy and thereby foster voluntary compliance. In this study, we report results from a phone-based participatory budgeting policy experiment in Sierra Leone that attempted to increase legitimacy and tax compliance by inviting public participation in local policy decision-making. In phone-based town halls, participants shared policy preferences with neighbors and local politicians and then voted for local public services that were subsequently implemented. We find that the intervention durably increased participants' perceptions of government legitimacy. However, against influential models of tax compliance, we find a robust null effect on tax compliance behavior. In exploratory analyses, we document that partisan affiliation strongly conditions the interventions' effects on tax compliance behavior and attitudes towards paying taxes.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
