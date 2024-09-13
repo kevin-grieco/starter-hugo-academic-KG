@@ -10,11 +10,11 @@ authors:
 - Niccolo Meriggi
 - Peter van der Windt
 
-date: "2023-8-10"
+date: "2024-8-10"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,8 +36,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 featured: false
 
 links:
-- name: PDF
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4477223
+- name: Preprint
+  url: https://www.researchsquare.com/article/rs-3853015/v1
 - name: PAP
   url: https://osf.io/9xfv3
 
