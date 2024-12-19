@@ -18,8 +18,8 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: ICTD
-  url: https://ictd.ac/
+- name: LoGRI
+  url: https://logri.org/about-us/our-team/#our-team
 
 # Short bio (displayed in user profile at end of posts)
 bio: Political scientist interested in state capacity and development.
