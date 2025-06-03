@@ -23,7 +23,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "DTH"
-publication_short: "Working Paper"
+# publication_short: "Working Paper"
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
