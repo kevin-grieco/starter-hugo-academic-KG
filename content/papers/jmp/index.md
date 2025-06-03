@@ -15,7 +15,7 @@ publishDate: "2025-03-12T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication_short: "Job Market Paper"
+# publication_short: "Job Market Paper"
 
 #tags:
 #- Source Themes
