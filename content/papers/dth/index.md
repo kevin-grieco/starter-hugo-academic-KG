@@ -25,9 +25,6 @@ publication_types: ["3"]
 publication: "DTH"
 publication_short: "Working Paper"
 
-
-abstract: Building durable fiscal capacity requires that states obtain compliance with their taxes---a persistent challenge for states with low enforcement capacity. One promising option for governments in weak states is to raise voluntary compliance by enhancing governmental legitimacy. This study reports results from a participatory budgeting policy experiment in Sierra Leone designed to increase legitimacy and tax compliance by inviting public participation in local policy decision-making. In phone-based town halls, participants shared policy preferences with neighbors and local politicians and then voted for public services that were subsequently implemented. We find that the intervention durably increased participants' perceptions of government legitimacy. However, contrary to influential models of tax compliance, we report a robust null effect on tax compliance behavior. Participants’ partisan affiliation strongly conditions the treatments' effects on tax compliance and attitudes toward paying taxes: We find large, positive impacts among copartisans of the incumbent government but significant negative impacts among non-copartisans. Our results highlight that the legitimacy gains of participatory interventions may not increase voluntary tax compliance when participation politicizes compliance.
-
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
