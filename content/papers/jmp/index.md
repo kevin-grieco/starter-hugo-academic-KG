@@ -2,11 +2,11 @@
 title: "Building Fiscal Capacity with Traditional Political Institutions: Experimental and Qualitative Evidence from Sierra Leone"
 authors:
 - admin
-date: "2024-9-11"
+date: "2025-3-11"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-12T00:00:00Z"
+publishDate: "2025-03-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
