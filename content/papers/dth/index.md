@@ -22,7 +22,7 @@ publishDate: "2025-06-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "DTH"
+# publication: "DTH"
 # publication_short: "Working Paper"
 
 # Summary. An optional shortened abstract.
