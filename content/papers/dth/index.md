@@ -35,6 +35,8 @@ featured: false
 links:
 - name: PAP
   url: https://osf.io/dhkfe
+- name: VoxDev Blog
+  url: https://voxdev.org/topic/institutions-political-economy/can-participatory-budgeting-build-government-legitimacy-and
 
 # links:
 # - name: ""
