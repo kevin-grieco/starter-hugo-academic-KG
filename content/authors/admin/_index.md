@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: LoGRI
-  url: https://logri.org/about-us/our-team/#our-team
+- name: IAST
+  url: https://www.iast.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Political scientist interested in state capacity and development.
