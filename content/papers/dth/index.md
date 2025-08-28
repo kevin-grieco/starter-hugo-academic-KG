@@ -32,6 +32,12 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 # - Source Themes
 featured: false
 
+image:
+  caption: 'Public service project selected in DTH'
+  focal_point: "Center"
+  preview_only: false
+
+
 links:
 - name: PAP
   url: https://osf.io/dhkfe
