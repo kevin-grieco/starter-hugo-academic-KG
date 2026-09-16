@@ -73,6 +73,7 @@ sections:
     id: policy
     content:
       title: Policy Reports & Briefs
+      count: 0
       # Filter on criteria
       filters:
         # The folders to display content from
