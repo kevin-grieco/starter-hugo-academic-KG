@@ -1,12 +1,12 @@
 ---
-title: "Building Fiscal Capacity with Traditional Political Institutions: Evidence from a Field Experiment and Interviews in Sierra Leone"
+title: "Building Fiscal Capacity with Traditional Authorities: Evidence from a Field Experiment and Interviews in Sierra Leone"
 authors:
 - admin
-date: "2025-3-11"
+date: "2026-09-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-12T00:00:00Z"
+publishDate: "2026-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -59,7 +59,7 @@ image:
 
 **Abstract** 
 
-I argue that governments in weak states can build fiscal capacity by collaborating with non-state, traditional political institutions (TPIs). To study the impact of collaboration, I partnered with the local government in Kono District, Sierra Leone (the KDC), and embedded an experiment within their awareness campaign for a new rural property tax. Property owners in 118 villages were shown videos with varying content. Those in the treatment group viewed an additional segment where their paramount chief discussed the collaboration between the chiefdom government and the KDC in the tax effort. Priming collaboration significantly increased tax compliance and strengthened property owners' belief in their obligation to pay taxes. To assess mechanisms, I developed additional video segments where paramount chiefs emphasized either their coercive capacity or their accountability to constituents. The experimental findings, reinforced by qualitative evidence from 261 interviews, demonstrate that both coercion and accountability are crucial sources of TPIs' authority.
+How do weak states collect taxes in the absence of enforcement capacity? One option is to collaborate with local non-state traditional political authorities. To study the impact of collaboration, I partnered with the local government in Kono District, Sierra Leone (the KDC), and embedded an experiment within their awareness campaign for a new rural property tax. Property owners in 118 villages were shown videos with varying content. Those in the treatment group viewed an additional segment where their paramount chief discussed the collaboration between the chiefdom government and the KDC in the tax effort. Priming collaboration significantly increased a pre-registered tax compliance index and strengthened property owners' belief in their obligation to pay taxes. To assess mechanisms, I developed additional video segments where paramount chiefs emphasized either their coercive capacity or their accountability to constituents. The experimental findings, reinforced by qualitative evidence from 261 interviews, demonstrate that both coercion and accountability are crucial sources of traditional political authority.
 
 
 {style="text-align: justify;"}
