@@ -73,3 +73,9 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+# Disable the social share buttons (Twitter/Facebook/LinkedIn/WhatsApp/Weibo)
+# on every page.
+cascade:
+  - _target: {}
+    share: false
