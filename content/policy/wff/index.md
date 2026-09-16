@@ -23,7 +23,7 @@ publication_short: "Policy Report"
 featured: false
 
 links:
-- name: World Bank
+- name: World Bank link
   url: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099022726040522686
 
 # url_pdf: ''
