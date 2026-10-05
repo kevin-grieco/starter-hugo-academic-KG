@@ -35,6 +35,13 @@ summary: "A cluster-randomised trial in 363 Sierra Leonean villages finds that a
 #- Source Themes
 featured: false
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Enumeration and research assistant team at the end of training'
+  focal_point: "Center"
+  preview_only: false
+
 links:
 - name: Preprint
   url: https://www.researchsquare.com/article/rs-3853015/v1
