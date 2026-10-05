@@ -79,3 +79,8 @@ minify:
 cascade:
   - _target: {}
     share: false
+  # Ongoing projects have no meaningful date: hide it on the project pages and
+  # (via layouts/partials/views/citation.html) drop the year in homepage listings.
+  - _target:
+      path: /ongoingprojects/**
+    show_date: false
