@@ -2,8 +2,8 @@
 title: "Sierra Leone's response to COVID-19: A Rapid Assessment"
 authors:
 - admin
-- and Yasmina Yusuf
-date: "2020"
+- Yasmina Yusuf
+date: "2020-05-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

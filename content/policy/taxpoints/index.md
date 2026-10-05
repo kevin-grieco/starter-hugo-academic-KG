@@ -5,9 +5,9 @@ authors:
 - Abou Bakarr Kamara
 - Niccolo Meriggi
 - Julian Michel
-- Wilson Prichard and
+- Wilson Prichard
 - Graeme Stewart-Wilson
-date: "2019"
+date: "2019-10-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

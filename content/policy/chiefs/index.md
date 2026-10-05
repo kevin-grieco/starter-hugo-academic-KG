@@ -2,7 +2,7 @@
 title: "Beyond the state: The role of traditional leaders in COVID-19"
 authors:
 - admin
-date: "2020-8-10"
+date: "2020-09-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
