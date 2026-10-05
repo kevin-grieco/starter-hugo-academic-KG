@@ -22,6 +22,13 @@ publication_short: "Policy Report"
 #- Source Themes
 featured: false
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Training the research team in Moyamba District'
+  focal_point: "Center"
+  preview_only: false
+
 links:
 - name: World Bank link
   url: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099022726040522686
