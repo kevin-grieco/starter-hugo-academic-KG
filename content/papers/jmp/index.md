@@ -15,7 +15,7 @@ publishDate: "2026-09-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-# publication_short: "Job Market Paper"
+publication_short: "Revise & Resubmit"
 
 #tags:
 #- Source Themes
