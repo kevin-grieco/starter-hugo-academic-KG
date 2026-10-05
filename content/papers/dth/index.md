@@ -26,7 +26,7 @@ publication_types: ["3"]
 publication_short: "Under review"
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "A participatory budgeting experiment in Sierra Leone durably raised perceptions of government legitimacy, but polarized tax compliance along partisan lines, yielding no average effect."
 
 # tags:
 # - Source Themes
