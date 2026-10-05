@@ -27,7 +27,7 @@ publication_short: "Policy Report"
 featured: false
 
 links:
-- name: Brief
+- name: Policy Commons link
   url: https://policycommons.net/artifacts/1448827/simplifying-property-tax-administration-in-africa/2080605/
 
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
