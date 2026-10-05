@@ -22,7 +22,7 @@ organizations:
   url: https://www.iast.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Political scientist interested in state capacity and development.
+bio: Political scientist studying state-building and governance in low-capacity contexts.
 
 # Education to show in About widget
 education:
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:kevin.grieco@tse-fr.eu'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
