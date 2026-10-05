@@ -23,7 +23,7 @@ publication_short: "Policy Report"
 featured: false
 
 links:
-- name: Report
+- name: OPML link
   url: https://www.opml.co.uk/files/Publications/A2241-maintains/final-2707-sierra-leone-covid-rapid-study-4-.pdf?noredirect=1
 
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
