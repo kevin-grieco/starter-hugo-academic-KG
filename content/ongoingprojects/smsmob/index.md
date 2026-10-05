@@ -19,12 +19,12 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "Tax RDD"
-# publication_short: "Data collection complete"
+publication_short: "Drafting"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "In one of the first randomized evaluations of a get-out-the-vote campaign in sub-Saharan Africa, an SMS campaign run with Sierra Leone's electoral commission had no effect on turnout."
 
 #tags:
 #- Source Themes
@@ -54,6 +54,6 @@ links:
 
 **Abstract**
 
-In the run-up to the 2018 general election in Sierra Leone, the National Election Commission (NEC) initiated a text message voter mobilization campaign with the intention of increasing voter turnout. This Get-out-the-Vote (GOTV) campaign targeted registered voters in 1293 polling stations with one SMS on each of the two days prior to first round of national elections. In the primary analysis, we evaluate (a) the effectiveness of SMS reminders to vote and (b) the relative effectiveness of development-oriented mobilization messages. We find this cost-effective Get-out-the-Vote campaign increased voting station level turnout by around .7%, and that SMS that contain additional development-oriented appeals are no more effective than reminder SMS. Finally, we show that these effects persist into the second-round presidential runoff, in accordance with previous research that suggests voting in habit forming.  
+Can text messages raise voter turnout outside rich democracies? In partnership with Sierra Leone's National Electoral Commission (NEC), we designed and evaluated a low-cost SMS campaign to increase turnout before the 2018 general election. Registered voters at 1,293 polling stations received one message on each of the two days before the first round, either a simple reminder to vote or a reminder paired with a development-oriented appeal. In one of the first randomized evaluations of a get-out-the-vote campaign in sub-Saharan Africa, we find no effect on turnout. The result cautions against exporting policy lessons from rich democracies to the Global South.
 
 {style="text-align: justify;"}
