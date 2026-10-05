@@ -29,6 +29,13 @@ summary: "With a local microfinance institution, we are developing a lower-cost,
 featured: false
 weight: 5
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Artisanal gold processing in Tonkolili District'
+  focal_point: "Center"
+  preview_only: false
+
 links:
 - name: IPA link
   url: https://poverty-action.org/conditional-access-finance-reduce-labor-exploitation-artisanal-mining-sierra-leone
