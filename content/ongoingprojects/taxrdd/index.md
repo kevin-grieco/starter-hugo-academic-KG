@@ -20,7 +20,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "Tax RDD"
-publication_short: "Data collection complete"
+publication_short: "Drafting"
 
 abstract: ""
 
