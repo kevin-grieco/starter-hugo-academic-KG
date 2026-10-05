@@ -15,6 +15,7 @@ sections:
     id: workingpapers
     content:
       title: Working Papers
+      count: 0
       # Filter on criteria
       filters:
         # The folders to display content from
@@ -44,6 +45,7 @@ sections:
     id: ongoingprojects
     content:
       title: Ongoing projects
+      count: 0
       # Filter on criteria
       filters:
         # The folders to display content from
