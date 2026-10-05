@@ -22,6 +22,13 @@ publication_short: "Policy Report"
 #- Source Themes
 featured: false
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Markets in Freetown during COVID-19: limited masking despite mandates'
+  focal_point: "Center"
+  preview_only: false
+
 links:
 - name: OPML link
   url: https://www.opml.co.uk/files/Publications/A2241-maintains/final-2707-sierra-leone-covid-rapid-study-4-.pdf?noredirect=1
