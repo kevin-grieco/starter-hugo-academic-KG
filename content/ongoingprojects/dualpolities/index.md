@@ -25,6 +25,7 @@ abstract: ""
 summary: "Using a sharp tax boundary in Makeni, Sierra Leone, we find preliminary evidence that state-building crowds out traditional authorities, but at a cost to government legitimacy."
 
 featured: false
+weight: 1
 
 links:
 - name: PAP

@@ -30,6 +30,7 @@ summary: "An experiment embedded in the tax bills of 77,912 Freetown property ow
 #tags:
 #- Source Themes
 featured: false
+weight: 3
 
 links:
 - name: PAP

@@ -46,6 +46,8 @@ sections:
     content:
       title: Ongoing projects
       count: 0
+      sort_by: Weight
+      sort_ascending: true
       # Filter on criteria
       filters:
         # The folders to display content from

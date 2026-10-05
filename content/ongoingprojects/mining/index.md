@@ -27,6 +27,7 @@ abstract: ""
 summary: "With a local microfinance institution, we are developing a lower-cost, conditional credit product for Sierra Leone's artisanal gold miners to improve incomes and labor conditions."
 
 featured: false
+weight: 5
 
 links:
 - name: IPA link

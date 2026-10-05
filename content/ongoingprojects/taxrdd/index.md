@@ -30,6 +30,7 @@ summary: "Using a sharp tax-bill threshold in Freetown's property tax reform, we
 #tags:
 #- Source Themes
 featured: false
+weight: 2
 
 links:
 - name: PAP
