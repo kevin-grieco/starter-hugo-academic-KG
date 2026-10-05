@@ -1,8 +1,7 @@
 ---
-title: "Weber's Nudge: Does Signaling Procedural Fairness on Tax Bills Increase Compliance?"
+title: "Business First: The Fiscal Contract in Weak States"
 authors:
 - admin
-- Abou Bakarr Kamara
 - Niccolo Meriggi
 - Julian Michel
 - Wilson Prichard
@@ -21,12 +20,12 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 # publication: "Tax RDD"
-publication_short: "Data collection complete"
+publication_short: "Drafting"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "An experiment embedded in the tax bills of 77,912 Freetown property owners shows that messages about better services and fairer processes raise tax compliance among business owners, but not among other taxpayers."
 
 #tags:
 #- Source Themes
@@ -55,6 +54,10 @@ links:
 ---
 **Abstract**
 
-How can governments tailor tax bills to maximize tax compliance? In this study, we collaborate with the Freetown City Council (FCC) to send different versions of Rate Demand Notice letters (RDNs)---the official property tax bill in our setting---to the universe of property owners in Freetown.  A large literature has explored how communicating enforcement threats and service delivery achievements through tax messages influences compliance. Here, we provide novel evidence on a previously understudied messaging strategy that conveys the increased procedural fairness of tax collection in our setting, where a recent reform scrapped in-person collection and opened up official avenues for property owner to appeal their tax rate. On the tax bills procedural fairness "nudges" take two forms: a first treatment group receives information on the appeals process. A second treatment group is made more aware of the switch from in-person tax collection---notoriously susceptible to collusion---to direct tax payments via banks. With additional treatment arms we also study the impact of enforcement and service delivery messaging, allowing us to benchmark the effects of the procedural fairness appeals against messaging strategies more commonly studied in the literature. 
+Fiscal contract theories hold that citizens comply with taxes in exchange for public services. Governments in low-capacity states that try to build this contract face a dual problem. First, a history of weak service delivery and inefficient administration leaves citizens reluctant to trust that the government will deliver once taxes are paid. Second, even citizens who expect to gain from exchange will not pay unless they believe the government can detect and punish non-compliance (Levi 1988). Enforcement capacity is thus a necessary condition for solving the collective action problem at the heart of the fiscal contract (Olson 1965). We argue that in many developing contexts the fiscal contract is most likely to emerge first among business owners, who have a deeper history of engagement with the state and who have long faced fiscal extraction.
+
+We test this argument in Freetown, Sierra Leone, where the municipal government made a vocal case for fiscal exchange during a large-scale property tax reform: taxes, it argued, should be paid in return for better services and government performance. With the Freetown City Council (FCC), we ran a randomized controlled trial in which 77,912 property owners received different versions of their annual property tax bill. Administrative records show that bills highlighting (i) improved service delivery and (ii) fairer government processes increased compliance among business owners but had no effect on other property owners.
+
+Two pieces of evidence support our argument. First, only business owners find enforcement threats credible: a bill priming enforcement increases compliance among business owners alone. Second, administrative data show that business owners use the state far more, and so gain more when it performs. The fiscal contract, we conclude, rests on quasi-voluntary compliance, in which enforcement remains a necessary condition for exchange.
 
 {style="text-align: justify;"}
