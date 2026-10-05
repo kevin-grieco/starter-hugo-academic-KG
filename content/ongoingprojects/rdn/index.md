@@ -32,6 +32,13 @@ summary: "An experiment embedded in the tax bills of 77,912 Freetown property ow
 featured: false
 weight: 3
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Drainage works in Freetown, shown on the service delivery tax bills sent to property owners'
+  focal_point: "Center"
+  preview_only: false
+
 links:
 - name: PAP
   url: https://osf.io/82hrj
